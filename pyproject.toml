@@ -9,15 +9,25 @@ description = "Uma biblioteca simples para manipulação de datas em Python."
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT License"}
+
 authors = [
   {name = "LeonardoMartendalSchlosser", email = "lmartendalaschlosser@gmail.com"}
 ]
-keywords = ["date", "data", "utils"]
+
+keywords = ["date", "datas", "utils", "time", "format"]
+
 classifiers = [
     "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
     "License :: OSI Approved :: MIT License",
-    "Development Status :: 3 - Alpha"
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Utilities"
 ]
 
 [project.urls]
-Homepage = "https://github.com/LeonardoMartendalSchlosser/simpledate"
+Homepage = "https://github.com/LeonardoMartendalSchlosser/SimpleDate"
+Issues = "https://github.com/LeonardoMartendalSchlosser/SimpleDate/issues"
