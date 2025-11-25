@@ -19,5 +19,7 @@ Ela permite converter strings em datas, formatar datas em diferentes padrões e 
 Após a publicação no TestPyPI:
 
 ```bash
-pip install -i https://test.pypi.org/simple/ simpledate-m3
+pip install -i https://test.pypi.org/simple/ simpledate
+
+
 
