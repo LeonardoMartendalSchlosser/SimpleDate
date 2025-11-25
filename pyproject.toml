@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT License"}
 authors = [
-  {name = "Seu Nome", email = "email@example.com"}
+  {name = "LeonardoMartendalSchlosser", email = "lmartendalaschlosser@gmail.com"}
 ]
 keywords = ["date", "data", "utils"]
 classifiers = [
@@ -20,4 +20,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/SEU_USUARIO/simpledate"
+Homepage = "https://github.com/LeonardoMartendalSchlosser/simpledate"
