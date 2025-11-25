@@ -20,4 +20,4 @@ Após a publicação no TestPyPI:
 
 ```bash
 
-pypi.yml
+pip install -i https://test.pypi.org/simple/ simpledate-m3
