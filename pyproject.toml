@@ -3,31 +3,21 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "SimpleDate-m3"
+name = "simpledate-m3"
 version = "0.1.0"
 description = "Uma biblioteca simples para manipulação de datas em Python."
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT License"}
-
 authors = [
-  {name = "LeonardoMartendalSchlosser", email = "lmartendalaschlosser@gmail.com"}
+  {name = "Leonardo Martendal Schlosser", email = "lmartendalaschlosser@gmail.com"}
 ]
-
-keywords = ["date", "datas", "utils", "time", "format"]
-
+keywords = ["date", "utils", "datas"]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.8",
-    "Programming Language :: Python :: 3.9",
-    "Programming Language :: Python :: 3.10",
     "License :: OSI Approved :: MIT License",
-    "Development Status :: 3 - Alpha",
-    "Intended Audience :: Developers",
-    "Topic :: Software Development :: Libraries",
-    "Topic :: Utilities"
+    "Development Status :: 3 - Alpha"
 ]
 
 [project.urls]
-Homepage = "https://github.com/LeonardoMartendalSchlosser/SimpleDate"
-Issues = "https://github.com/LeonardoMartendalSchlosser/SimpleDate/issues"
+Homepage = "https://github.com/LeonardoMartendalSchlosser/simpledate"
