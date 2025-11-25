@@ -20,3 +20,4 @@ Após a publicação no TestPyPI:
 
 ```bash
 
+.github/workflows/pypi.yml
